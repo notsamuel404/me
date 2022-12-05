@@ -1,0 +1,15 @@
+1. Variables
+2.loops
+3.conditions
+4.Logical/relational operators
+5.Exception Handling
+6.Functions
+7.Class and Inheritance
+8.Collections Frameworks
+9.Threads and Libraries
+
+Gradle(sikhna hai dependences add karna everthing)
+
+Listeners and Adapters
+
+Anroid Devlopment
